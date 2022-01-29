@@ -13,13 +13,13 @@
     border: 0;
     }
 
-
     .navbar-brand h1 { /* Restaurant name */
     color: #000000;
     text-transform: uppercase;
     font-weight: bold;
     margin-top: 0;
     margin-bottom: 0;
+    position: relative;
     }
     .navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
@@ -56,7 +56,7 @@
     }
     .navbar-header button.navbar-toggle {
     clear: both;
-    margin-top: -30px;
+    margin-top: -60px;
     }
 
     h1{
